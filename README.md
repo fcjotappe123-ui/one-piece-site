@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/one-piece-jolly-roger-removebg-preview.png">
+  <img src="imagens/ui/one-piece-jolly-roger-removebg-preview.png">
 </p>
 
 <p align="center"><a href="https://fcjotappe123-ui.github.io/site-one-piece/">Site One Piece</a></p>
